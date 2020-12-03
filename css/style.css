@@ -1451,4 +1451,10 @@ body {
     height: 455px;
     left: -35px;
   }
+  .profession-part-1{
+    text-shadow: black 2px 3px 4px;
+  }
+  .profession-part-2{
+    text-shadow: black 2px 3px 4px;
+  }
 }
