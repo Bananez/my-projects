@@ -76,10 +76,10 @@ body {
   display: none;
 }
 .desktop-element {
-  display: none !important;
+  display: non!important;
 }
 .tablet-element {
-  display: none !important;
+  display: none;
 }
 .mobile-element {
   display: block;
@@ -948,7 +948,7 @@ body {
     display: none;
   }
   .tablet-element {
-    display: block !important;
+    display: block;
   }
   .front-page-my-name {
     font-size: 36px;
@@ -1155,7 +1155,7 @@ body {
   }
 
   .desktop-element {
-    display: block !important;
+    display: block;
   }
   .swiper-container {
     width: 900px;
@@ -1260,9 +1260,7 @@ body {
     top: 35px;
     left: 274px;
   }
-  .desktop-fast-menu {
-  }
-  .menu-about {
+    .menu-about {
     margin-left: 30px;
     color: var(--txt-c-grey);
     text-decoration: none;
@@ -1452,5 +1450,11 @@ body {
     width: 421px;
     height: 455px;
     left: -35px;
+  }
+  .profession-part-1{
+    text-shadow: black 2px 3px 4px;
+  }
+  .profession-part-2{
+    text-shadow: black 2px 3px 4px;
   }
 }
